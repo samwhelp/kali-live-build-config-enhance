@@ -7,6 +7,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [kali-live-build-config-enhance](https://samwhelp.github.io/kali-live-build-config-enhance/) | [GitHub](https://github.com/samwhelp/kali-live-build-config-enhance) |
+| [kali-live-build-config-basic](https://samwhelp.github.io/kali-live-build-config-basic/) | [GitHub](https://github.com/samwhelp/kali-live-build-config-basic) |
 | [kali-live-build-config-remix](https://samwhelp.github.io/kali-live-build-config-remix/) | [GitHub](https://github.com/samwhelp/kali-live-build-config-remix) |
 | [kali-live-build-config-using](https://samwhelp.github.io/kali-live-build-config-using/) | [GitHub](https://github.com/samwhelp/kali-live-build-config-using) |
 | [kali-live-build-config-extend](https://samwhelp.github.io/kali-live-build-config-extend/) | [GitHub](https://github.com/samwhelp/kali-live-build-config-extend) |
